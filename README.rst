@@ -1,3 +1,14 @@
+kkroening/pyflakes-vim
+======================
+
+A forked version of `kevinw/pyflakes-vim <https://github.com/kevinw/pyflakes-vim>`_ with additional fix:
+
+* Fix handling of ast.SyntaxError in Python 3.10+ `(#1) <https://github.com/kkroening/pyflakes-vim/pull/1>`_
+
+Original readme follows.
+
+----
+
 WARNING: DEPRECATED! pyflakes-vim is officially deprecated!
 --------------------------------------
 
