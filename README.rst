@@ -5,6 +5,11 @@ A forked version of `kevinw/pyflakes-vim <https://github.com/kevinw/pyflakes-vim
 
 * Fix handling of ast.SyntaxError in Python 3.10+ `(#1) <https://github.com/kkroening/pyflakes-vim/pull/1>`_
 
+Installation:
+::
+
+  pip install git+ssh://git@github.com/kkroening/pyflakes-vim.git
+
 Original readme follows.
 
 ----
