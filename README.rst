@@ -8,7 +8,7 @@ A forked version of `kevinw/pyflakes-vim <https://github.com/kevinw/pyflakes-vim
 Installation:
 ::
 
-  pip install git+ssh://git@github.com/kkroening/pyflakes-vim.git
+  cd ~/.vim/bundle && git clone git@github.com:kkroening/pyflakes-vim.git
 
 Original readme follows.
 
